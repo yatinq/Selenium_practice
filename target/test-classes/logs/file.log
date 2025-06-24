@@ -1,0 +1,48 @@
+15:25:09.888 [main] INFO  base.BaseTest - browser has opened!
+15:25:10.215 [main] INFO  base.BaseTest - window has been maximised!
+15:25:10.221 [main] INFO  base.BaseTest - Implicit wait.....
+15:25:18.599 [main] INFO  base.BaseTest - URL has entered!
+15:25:22.610 [main] INFO  base.BaseTest - Login Successful!
+15:26:02.643 [main] INFO  base.BaseTest - menu clicked
+15:26:04.074 [main] INFO  base.BaseTest - BT clicked
+15:26:07.817 [main] INFO  base.BaseTest - product clicked
+15:26:42.694 [main] INFO  base.BaseTest - last product name is : SPARX 5450
+15:33:02.969 [main] INFO  base.BaseTest - browser has opened!
+15:33:03.296 [main] INFO  base.BaseTest - window has been maximised!
+15:33:03.304 [main] INFO  base.BaseTest - Implicit wait.....
+15:33:19.236 [main] INFO  base.BaseTest - URL has entered!
+15:33:23.344 [main] INFO  base.BaseTest - Login Successful!
+15:34:04.611 [main] INFO  base.BaseTest - menu clicked
+15:34:04.805 [main] INFO  base.BaseTest - BT clicked
+15:34:23.086 [main] INFO  base.BaseTest - product clicked
+15:34:56.731 [main] INFO  base.BaseTest - last product name is : SPARX 5450
+15:50:45.158 [main] INFO  base.BaseTest - browser has opened!
+15:50:45.485 [main] INFO  base.BaseTest - window has been maximised!
+15:50:45.492 [main] INFO  base.BaseTest - Implicit wait.....
+15:50:49.911 [main] INFO  base.BaseTest - URL has entered!
+15:50:54.752 [main] INFO  base.BaseTest - Login Successful!
+15:51:23.648 [main] INFO  base.BaseTest - menu clicked
+15:51:24.038 [main] INFO  base.BaseTest - BT clicked
+15:51:40.436 [main] INFO  base.BaseTest - product clicked
+15:51:45.513 [main] INFO  base.BaseTest - last product name is : SPARX 5450
+12:53:39.018 [main] INFO  base.BaseTest - browser has opened!
+12:53:39.362 [main] INFO  base.BaseTest - window has been maximised!
+12:53:39.371 [main] INFO  base.BaseTest - Implicit wait.....
+12:53:42.625 [main] INFO  base.BaseTest - URL has entered!
+12:53:49.994 [main] INFO  base.BaseTest - Login Successful!
+13:01:27.822 [main] INFO  base.BaseTest - browser has opened!
+13:01:28.148 [main] INFO  base.BaseTest - window has been maximised!
+13:01:28.154 [main] INFO  base.BaseTest - Implicit wait.....
+13:01:31.514 [main] INFO  base.BaseTest - URL has entered!
+13:01:38.853 [main] INFO  base.BaseTest - Login Successful!
+13:02:00.450 [main] INFO  base.BaseTest - menu clicked
+17:41:31.911 [main] INFO  base.BaseTest - browser has opened!
+17:41:32.245 [main] INFO  base.BaseTest - window has been maximised!
+17:41:32.254 [main] INFO  base.BaseTest - Implicit wait.....
+17:41:40.751 [main] INFO  base.BaseTest - URL has entered!
+17:41:45.294 [main] INFO  base.BaseTest - Login Successful!
+15:31:39.607 [main] INFO  base.BaseTest - browser has opened!
+15:31:40.743 [main] INFO  base.BaseTest - window has been maximised!
+15:31:40.749 [main] INFO  base.BaseTest - Implicit wait.....
+15:31:44.271 [main] INFO  base.BaseTest - URL has entered!
+15:31:53.125 [main] INFO  base.BaseTest - Login Successful!

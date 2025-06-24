@@ -1,0 +1,3 @@
+**/config.properties
+**/locators.properties
+src/test/java/productCreation/createProduct.java
