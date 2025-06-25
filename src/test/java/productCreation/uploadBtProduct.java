@@ -13,6 +13,8 @@ public class uploadBtProduct extends BaseTest {
 	@Test()
 	public void upload_Bt_product() {
 		WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(20));
+		
+		// set producttype locator
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(loc.getProperty("selectproductType_loc")))).click();
 		log.info("menu clicked");
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(loc.getProperty("brandDistribution_loc")))).click();
