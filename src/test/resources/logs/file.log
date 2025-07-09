@@ -67,3 +67,9 @@
 15:51:25.651 [main] INFO  base.BaseTest - URL has entered!
 15:51:29.428 [main] INFO  base.BaseTest - Login Successful!
 15:51:30.543 [main] INFO  base.BaseTest - Log out success
+16:52:42.951 [main] INFO  base.BaseTest - browser has opened!
+16:52:43.373 [main] INFO  base.BaseTest - window has been maximised!
+16:52:43.379 [main] INFO  base.BaseTest - Implicit wait.....
+16:52:47.138 [main] INFO  base.BaseTest - URL has entered!
+16:52:49.698 [main] INFO  base.BaseTest - Login Successful!
+16:52:49.820 [main] INFO  base.BaseTest - Actual text is same as expected text : Logged In Successfully
