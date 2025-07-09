@@ -68,10 +68,10 @@ public class BaseTest {
 			driver.get(prop.getProperty("stagingurl"));
 			log.info("URL has entered!");
 
-			driver.findElement(By.xpath(loc.getProperty("username_loc"))).sendKeys(prop.getProperty("username"));
-			driver.findElement(By.xpath(loc.getProperty("next_loc"))).click();
-			driver.findElement(By.xpath(loc.getProperty("password_loc"))).sendKeys(prop.getProperty("password"));
-			driver.findElement(By.xpath(loc.getProperty("login_loc"))).click();
+			driver.findElement(By.id(loc.getProperty("username_loc"))).sendKeys(prop.getProperty("username"));
+			
+			driver.findElement(By.id(loc.getProperty("password_loc"))).sendKeys(prop.getProperty("password"));
+			driver.findElement(By.id(loc.getProperty("submit_loc"))).click();
 			log.info("Login Successful!");
 			
 			try {

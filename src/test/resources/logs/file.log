@@ -46,3 +46,8 @@
 15:31:40.749 [main] INFO  base.BaseTest - Implicit wait.....
 15:31:44.271 [main] INFO  base.BaseTest - URL has entered!
 15:31:53.125 [main] INFO  base.BaseTest - Login Successful!
+15:33:28.483 [main] INFO  base.BaseTest - browser has opened!
+15:33:28.819 [main] INFO  base.BaseTest - window has been maximised!
+15:33:28.827 [main] INFO  base.BaseTest - Implicit wait.....
+15:33:32.826 [main] INFO  base.BaseTest - URL has entered!
+15:33:35.427 [main] INFO  base.BaseTest - Login Successful!
