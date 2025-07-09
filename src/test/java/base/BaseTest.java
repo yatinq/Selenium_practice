@@ -18,6 +18,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -117,12 +118,12 @@ public class BaseTest {
 //	File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 //	FileUtils.copyFile(f,new  File("/home/yatinsharma/work/infinito_auto/selenium_auto/src/test/resources/reports/screenshots.png"));
 //	log.info("screenshot captured!");
-//	@AfterMethod
-//	
-//	public void tearDown() throws InterruptedException {
-//		Thread.sleep(3000);
-//		driver.close();
-//		System.out.println("Teardown Successful.");
-//	}
+	@AfterMethod
+	
+	public void tearDown() throws InterruptedException {
+		Thread.sleep(3000);
+		driver.close();
+		System.out.println("Teardown Successful.");
+	}
 
 }
